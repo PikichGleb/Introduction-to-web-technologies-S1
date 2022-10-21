@@ -1,10 +1,10 @@
 ___Шапка___
-![](/Wiki/Header.png)
-__Содержание__
-![](/Wiki/Content.png)
+![](/Wiki_/Header.png)
+*__Содержание__*
+![](/Wiki_/Content.png)
 __Навигация ?__
 
-![](/Wiki/Nav.png)
+![](/Wiki_/Nav.png)
 
 ___Подвал___
-![](/Wiki/Footer.png)
+![](/Wiki_/Footer.png)
